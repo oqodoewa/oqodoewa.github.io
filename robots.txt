@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqodoewa.github.io/HkU/sitemap_index.txt
+Sitemap: https://oqodoewa.github.io/SFI/sitemap_index.txt
+Sitemap: https://oqodoewa.github.io/aLv/sitemap_index.txt
+Sitemap: https://oqodoewa.github.io/tFO/sitemap_index.txt
